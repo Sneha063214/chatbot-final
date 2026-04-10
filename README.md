@@ -22,15 +22,7 @@ flight-chatbot/
 │── flights.csv          
 │── forms.html          
 │── images/             
-⚙️ Installation & Setup
-Clone the repository:
-git clone https://github.com/Sneha063214/chatbot-final.git
-Navigate to the project folder:
-cd chatbot-final
-Install dependencies:
-pip install flask pandas
-Run the application:
-python flightchat.py
+
 🌐 Usage
 Open your browser
 Go to: http://127.0.0.1:5000/
