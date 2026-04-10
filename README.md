@@ -49,7 +49,9 @@ Go to: http://127.0.0.1:5000/
 
 Start chatting with the bot 🤖
 
-📸 Screenshots:
+📸 SCREEN RECORDING:
+
+https://drive.google.com/file/d/1e_8x4LtEJuGQJ2LAQ9OGyzHhVuywye_k/view?usp=drive_link
 
 
-(Add your UI screenshot here later)
+
