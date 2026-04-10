@@ -32,9 +32,13 @@ CSV Dataset
 📁 Project Structure
 
 flight-chatbot/
-│── flightchat.py        
-│── flights.csv          
-│── forms.html          
+
+│── flightchat.py  
+
+│── flights.csv   
+
+│── forms.html   
+
 │── images/             
 
 🌐 Usage
